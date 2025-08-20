@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I’m Shahnawaz Ali, a first-year student passionate about technology and programming.<br><br>🌱 I’m currently learning C, Python, and Web Development.<br>💡 I’m excited to explore open-source projects and improve my coding skills.<br>📚 I believe in learning step by step and sharing my progress along the way.<br>🎯 My goal is to become a skilled developer and contribute to meaningful projects.
+Hi, I’m Shahnawaz Ali, a first-year student passionate about technology and programming.<br><br>🌱 I’m currently learning Web Development.<br>💡 I’m excited to explore open-source projects and improve my coding skills.<br>📚 I believe in learning step by step and sharing my progress along the way.<br>🎯 My goal is to become a skilled developer and contribute to meaningful projects.
 
 
 ## 🌐 Socials:
